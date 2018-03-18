@@ -6,5 +6,5 @@ just a loopback api demo
 $npm i
 $node . 
 ```
-open your brower to http://localhost:3000
+open your browser to http://localhost:3000
 
