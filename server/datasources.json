@@ -1,0 +1,10 @@
+{
+  "db": {
+    "database": "snake",
+    "password": "root",
+    "name": "db",
+    "user": "root",
+    "connector": "mysql",
+    "createDatabase": true
+  }
+}
